@@ -16,3 +16,5 @@ Changes from another developer
 bug resolved
 
 bug resolved 2
+
+bug resolved 3
